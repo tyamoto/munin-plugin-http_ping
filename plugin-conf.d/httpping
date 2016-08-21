@@ -1,0 +1,7 @@
+[httpping_chiebukuro.yahoo.co.jp]
+  env.URL   http://chiebukuro.yahoo.co.jp/
+  env.AGENT ''
+
+[httpping_detail.chiebukuro.yahoo.co.jp]
+  env.URL   http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1243817632
+  env.AGENT ''
